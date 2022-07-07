@@ -1,0 +1,8 @@
+1. Go through different functions and explain what they are for
+2. Never timeout
+3. Make game quicker
+
+
+
+Summary of Program:
+===================
